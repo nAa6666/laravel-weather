@@ -15,7 +15,7 @@ php artisan sync:weather --city=London
 php artisan sync:weather --city=Lviv --country=UA
 ```
 
-[app/Console/Commands/SiteMapGenerate.php](https://github.com/nAa6666/laravel-weather/blob/main/app/Console/Commands/WeatherApi.php)
+[app/Console/Commands/WeatherApi.php](https://github.com/nAa6666/laravel-weather/blob/main/app/Console/Commands/WeatherApi.php)
 
 Error city or country
 ```
